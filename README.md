@@ -6,7 +6,8 @@
 
 ### Color Wheel
 - **ColorWheel.cpp:** Implements a color wheel to demonstrate color interpolation and rendering techniques.
-![image](https://github.com/khaled71612000/OpenGL-Mini-Projects/assets/59780800/0ae9ad8c-0f89-41d5-bdb7-83a6e44e4f48)
+![image](https://github.com/khaled71612000/OpenGL-Mini-Projects/assets/59780800/24d6ab69-a8b6-4946-a71d-ce892845e920)
+![image](https://github.com/khaled71612000/OpenGL-Mini-Projects/assets/59780800/6fa10bfd-d6ed-48f2-ba6b-eaa1beaf8445)
 
 ### Line Drawer
 - **LineDrawer.cpp:** Demonstrates basic line drawing using OpenGL, showcasing algorithms like Bresenham's line algorithm.
