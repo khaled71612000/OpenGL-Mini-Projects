@@ -55,6 +55,18 @@ This project serves as a valuable resource for learning and experimenting with O
 
 ![Screenshot 5](https://raw.githubusercontent.com/khaled71612000/OpenGL-Mini-Projects/HEAD/OpenGL Maze/OpenGLPuzzleGame/images/skybox/0003.jpg)
 
+
+## Tech Stack
+
+| Technology | Role |
+|---|---|
+| OpenGL 3.3+ | Graphics API |
+| C++ | Application logic |
+| GLFW | Window & input management |
+| GLAD | OpenGL function loader |
+| GLM | Math library (vectors, matrices) |
+
+
 ## Getting Started
 
 ### Prerequisites
